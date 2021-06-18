@@ -25,7 +25,6 @@ vite-react-rtkq
 ├── .gitignore
 ├── index.html
 ├── package.json
-├── README.md
 └── vite.config.js
 ```
 
@@ -47,6 +46,7 @@ npm install
 # Start the local vite dev server
 npm run dev
 ```
+Then open http://localhost:3000 to view it in the browser
 
 ## Production
 ```shell
