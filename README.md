@@ -33,11 +33,11 @@ vite-react-rtkq
 
 ```shell
 # For JS Template
-npx degit princerajroy/vite-react-rtkq/packages/template project-name
+npx degit princerajroy/vite-react-rtkq/packages/template my-app
 # For TS Template
-npx degit princerajroy/vite-react-rtkq/packages/template-ts project-name
+npx degit princerajroy/vite-react-rtkq/packages/template-ts my-app
 
-cd project-name
+cd my-app
 npm install
 ```
 
@@ -59,9 +59,12 @@ npm run build
 # Run the production build locally
 npm run serve
 ```
-<div width="100%" style="text-align:center">
-  <img width="90%" src="./assets/localhost.jpg" alt="App Running Locally" />
-</div>
+
+## Demo
+
+<img width="100%" src="./assets/howto.gif" alt="How To" />
+
+<img src="./assets/localhost.jpg" alt="App Running Locally" />
 
 ## LICENSE
 
