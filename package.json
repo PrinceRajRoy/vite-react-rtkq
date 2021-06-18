@@ -1,0 +1,10 @@
+{
+  "name": "vite-react-rtkq",
+  "version": "0.0.1",
+  "description": "A Vite, React And Redux Toolkit Query Starter Boilerplate With Opt-In TypeScript",
+  "author": "Prince Raj Roy <princerajroy313@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "./packages/*"
+  ]
+}
