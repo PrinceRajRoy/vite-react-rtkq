@@ -1,6 +1,12 @@
 <img src="./assets/vite-react-rtkq.svg" alt="Vite + React + RTKQ Logo" />
 
-A [Vite](https://vitejs.dev) + [React](https://reactjs.org/) + [Redux Toolkit Query](https://redux-toolkit.js.org/tutorials/rtk-query) starter template with opt-in [TypeScript](https://www.typescriptlang.org/docs/handbook).
+<div align="center">
+  <img src="https://img.shields.io/github/license/PrinceRajRoy/vite-react-rtkq" alt="MIT Badge">
+  <img src="https://img.shields.io/github/issues/PrinceRajRoy/vite-react-rtkq" alt="Issues Badge">
+</div>
+<br />
+
+> A [Vite](https://vitejs.dev) + [React](https://reactjs.org/) + [Redux Toolkit Query](https://redux-toolkit.js.org/tutorials/rtk-query) starter template with opt-in [TypeScript](https://www.typescriptlang.org/docs/handbook).
 
 ## Template Structure
 
